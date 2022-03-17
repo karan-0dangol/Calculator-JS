@@ -24,7 +24,7 @@ btn.forEach(btn=>{
                 display.innerText = "Error!"
                 setTimeout(() => {
                     display.innerText = ''
-                }, 1500);
+                }, 700);
                 
                
             }
